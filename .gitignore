@@ -2,3 +2,7 @@ react-langchain/.idea/
 ice_breaker/tools/__pycache__/
 ice_breaker/third_parties/__pycache__/
 react-langchain/Pipfile.lock
+vectorstore-in-memory/.env
+vectorstore-in-memory/Pipfile.lock
+vectorstore-in-memory/.idea/
+vectorstore-in-memory/skd_faiss_index_local/
