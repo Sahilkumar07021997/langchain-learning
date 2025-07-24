@@ -13,7 +13,7 @@ Below are the list of topics covered and projects made.
 2. Ice breaker project - LinkedIn person finder.
 3. Intro to vector databases.
 4. ReAct - AI Agents development.
-5. Talk to PDF project - RAG and local vector database.
+5. Talk to PDF project - RAG and local vector database(FAISS).
 ```
 
 ## Contributing
