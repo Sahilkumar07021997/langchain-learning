@@ -1,1 +1,4 @@
 react-langchain/.idea/
+ice_breaker/tools/__pycache__/
+ice_breaker/third_parties/__pycache__/
+react-langchain/Pipfile.lock
